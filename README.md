@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Andrew-Suares/StatsCard)
-- Live Site URL: [Add live site URL here](https://youthful-carson-316c31.netlify.app/)
+- Solution URL: [(https://github.com/Andrew-Suares/StatsCard)]
+- Live Site URL: [(https://youthful-carson-316c31.netlify.app/)]
 
 ## My process
 
